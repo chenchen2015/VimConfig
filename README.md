@@ -2,7 +2,7 @@
 Some custom vim configurations collected from various sources
 
 
-## `pathogen` for easy plugin management
+### `pathogen` for easy plugin management
 - Project source: https://github.com/tpope/vim-pathogen
 - Installation: 
   ```bash
@@ -15,5 +15,5 @@ Some custom vim configurations collected from various sources
   syntax on
   filetype plugin indent on
   ```
-## `vimplus` automated solution for configuring vim
+### `vimplus` automated solution for configuring vim
 https://github.com/chxuan/vimplus
