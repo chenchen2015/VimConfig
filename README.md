@@ -17,3 +17,4 @@ Some custom vim configurations collected from various sources
   ```
 ### `vimplus` automated solution for configuring vim
 https://github.com/chxuan/vimplus
+Help doc for shortcuts is here: https://github.com/chxuan/vimplus/blob/master/help.md
